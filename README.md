@@ -54,9 +54,9 @@ Literalura es una aplicación desarrollada en Java que permite buscar, visualiza
 
 # Tecnologías Usadas para el Proyecto
 
-Java 21
-Spring Boot
-Spring Data JPA
-PostgreSQL
-API REST (Gutendex)
-Maven
+* Java 21
+* Spring Boot
+* Spring Data JPA
+* PostgreSQL
+* API REST (Gutendex)
+* Maven
