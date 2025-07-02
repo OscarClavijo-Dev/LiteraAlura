@@ -16,6 +16,8 @@ Literalura es una aplicación desarrollada en Java que permite buscar, visualiza
 9. Libros por derechos de autor.
 10. Mostrar autores vivos durante un periodo.
 
-Imagen programa
+# Imagen programa
+
+
 ![image](https://github.com/user-attachments/assets/e99bcc9b-d30b-4c6c-9408-365df6a59f38)
 
