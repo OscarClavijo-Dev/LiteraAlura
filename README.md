@@ -35,3 +35,28 @@ Literalura es una aplicación desarrollada en Java que permite buscar, visualiza
 * Funcionalidad 6: Filtrar libros por idioma utilizando un enum personalizado (BD).
 * Funcionalidad 7: Filtrar libros por derechos de autor (BD).
 * Funcionalidad 8: Validar entradas del usuario para mejorar la experiencia y prevenir errores (BD).
+
+  
+# Pruebas de Funcionamiento
+
+![image](https://github.com/user-attachments/assets/0dafb401-9edf-4ff9-ac2e-75f0d35c39bd)
+
+
+![image](https://github.com/user-attachments/assets/13a4e5d4-fb3e-4081-bf37-5b161ec3752b)
+
+
+![image](https://github.com/user-attachments/assets/5d482ebf-3e15-452c-8713-d54215b5714e)
+
+
+![image](https://github.com/user-attachments/assets/9ea38f64-fd27-462c-870c-4d73a704f565)
+
+
+
+# Tecnologías Usadas para el Proyecto
+
+Java 21
+Spring Boot
+Spring Data JPA
+PostgreSQL
+API REST (Gutendex)
+Maven
