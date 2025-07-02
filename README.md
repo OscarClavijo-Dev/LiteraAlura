@@ -23,3 +23,15 @@ Literalura es una aplicación desarrollada en Java que permite buscar, visualiza
 
 
 -->  El proyecto de implementar la arquitectura basada en Java con carga de resorte, perseverancia con JPA y PostgreSQL y usar modelos, archivos y consultores modernos (requisitos derc). Esta aplicación está hecha de un panel de control con un menú interactivo de usuario en consultoría y registro de datos.
+
+
+# Funcionalidades del Programa
+
+* Funcionalidad 1: Buscar libros por título usando la API de Gutendex.
+* Funcionalidad 2: Guardar libros y autores en una base de datos PostgreSQL.
+* Funcionalidad 3: Mostrar autores por año de nacimiento o intervalo de fechas (BD).
+* Funcionalidad 4: Visualizar los 10 libros más descargados (BD).
+* Funcionalidad 5: Visualizar el libro más y menos descargado, así como un promedio del total de descargas (BD).
+* Funcionalidad 6: Filtrar libros por idioma utilizando un enum personalizado (BD).
+* Funcionalidad 7: Filtrar libros por derechos de autor (BD).
+* Funcionalidad 8: Validar entradas del usuario para mejorar la experiencia y prevenir errores (BD).
