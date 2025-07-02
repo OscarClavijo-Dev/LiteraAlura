@@ -21,3 +21,5 @@ Literalura es una aplicación desarrollada en Java que permite buscar, visualiza
 
 ![image](https://github.com/user-attachments/assets/e99bcc9b-d30b-4c6c-9408-365df6a59f38)
 
+
+-->  El proyecto de implementar la arquitectura basada en Java con carga de resorte, perseverancia con JPA y PostgreSQL y usar modelos, archivos y consultores modernos (requisitos derc). Esta aplicación está hecha de un panel de control con un menú interactivo de usuario en consultoría y registro de datos.
